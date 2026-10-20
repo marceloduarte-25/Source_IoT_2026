@@ -1070,8 +1070,28 @@ GenerateClassCluster=0
 DocumentUniqueId=CDEGTGOF
 
 [Parameter1]
-Name=TituloProjeto
+Name=Rev
+Value=v0.1
+
+[Parameter2]
+Name=TítuloProjeto
 Value=Fonte Padrão IoT
+
+[Parameter3]
+Name=Revisor
+Value=Natan
+
+[Parameter4]
+Name=Projetista
+Value=Marcelo Lessa Duarte
+
+[Parameter5]
+Name=NúmeroContrato
+Value=1º Contrato
+
+[Parameter6]
+Name=Conta
+Value=VIRTUS CC
 
 [Configuration1]
 Name=Sources
