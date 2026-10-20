@@ -1069,29 +1069,63 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDEGTGOF
 
+[Document61]
+DocumentPath=Schematics\PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ITWHDBTF
+
+[Document62]
+DocumentPath=Schematics\PCB1.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ALJIDGBS
+
 [Parameter1]
-Name=Rev
-Value=v0.1
+Name=Conta
+Value=VIRTUS CC
 
 [Parameter2]
-Name=TítuloProjeto
-Value=Fonte Padrão IoT
-
-[Parameter3]
-Name=Revisor
-Value=Natan
-
-[Parameter4]
-Name=Projetista
-Value=Marcelo Lessa Duarte
-
-[Parameter5]
 Name=NúmeroContrato
 Value=1º Contrato
 
+[Parameter3]
+Name=Projetista
+Value=Marcelo Lessa Duarte
+
+[Parameter4]
+Name=Rev
+Value=v0.1
+
+[Parameter5]
+Name=Revisor
+Value=Natan
+
 [Parameter6]
-Name=Conta
-Value=VIRTUS CC
+Name=TítuloProjeto
+Value=Fonte Padrão IoT
 
 [Configuration1]
 Name=Sources
