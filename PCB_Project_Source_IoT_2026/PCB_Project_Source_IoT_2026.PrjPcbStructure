@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Sheet2_Hierarquia.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=Sheet2_Hierarquia.SchDoc|Designator=Sheet3|SchDesignator=Sheet3|FileName=Sheet3_Buck.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Sheet3_Buck.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet2_Hierarquia.SchDoc|Designator=Sheet4|SchDesignator=Sheet4|FileName=Sheet4_Carregador_Bateria.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Sheet4_Carregador_Bateria.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet2_Hierarquia.SchDoc|Designator=Sheet5|SchDesignator=Sheet5|FileName=Sheet5_Proteção_Bateria.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Sheet5_Proteção_Bateria.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Sheet2_Hierarquia.SchDoc|FileName=Sheet1_Diagrama.SchDoc|SheetNumber=1
