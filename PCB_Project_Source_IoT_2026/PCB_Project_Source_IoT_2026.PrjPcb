@@ -1205,29 +1205,67 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDGMEUNK
 
+[Document69]
+DocumentPath=Libraries\1844210.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XDROBHBD
+
+[Document70]
+DocumentPath=Libraries\1844210.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LDYORJIK
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project_Source_IoT_2026\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=TítuloProjeto
-Value=Fonte Padrão IoT
+Name=Conta
+Value=VIRTUS CC
 
 [Parameter2]
-Name=Revisor
-Value=Natan
-
-[Parameter3]
-Name=Rev
-Value=v0.1
-
-[Parameter4]
-Name=Projetista
-Value=Marcelo Lessa Duarte
-
-[Parameter5]
 Name=NúmeroContrato
 Value=1º Contrato
 
+[Parameter3]
+Name=Projetista
+Value=Marcelo Lessa Duarte
+
+[Parameter4]
+Name=Rev
+Value=v0.1
+
+[Parameter5]
+Name=Revisor
+Value=Natan
+
 [Parameter6]
-Name=Conta
-Value=VIRTUS CC
+Name=TítuloProjeto
+Value=Fonte Padrão IoT
 
 [Configuration1]
 Name=Sources
@@ -2279,7 +2317,14 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=+5V_Ext|NetColor=clYellow
+Net1=NetName=+3.7V|NetColor=$00FF6EFF
+Net2=NetName=+5V_Ext|NetColor=$006E6EFF
+Net3=NetName=+5V_USB|NetColor=$00FF6E6E
+Net4=NetName=EN|NetColor=$00FFFF6E
+Net5=NetName=NetC2_2|NetColor=$006E6EFF
+Net6=NetName=NetJ9_2|NetColor=$00FFFF6E
+Net7=NetName=NetQ1_1|NetColor=$00FFFF6E
+Net8=NetName=V_Battery|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
