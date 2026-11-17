@@ -1,0 +1,52 @@
+Removed Member From Class: ClassName=Sheet5 Member=U2
+Change Component Designator: OldDesignator=Q1 NewDesignator=T2
+Added Component: Designator=J1(TSW-101-07-G-D_SAI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J4(TSW-101-07-G-D_SAI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J6(TSW-101-07-G-D_SAI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J7(TSW-101-07-G-D_SAI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J9(TSW-101-07-G-D_SAI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-101-07-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=VSYS Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=+5V_USB Pin=J9-1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetR1_2
+Added Member To Class: ClassName=Sheet3 Member=Component C2 10uF, 50V
+Added Member To Class: ClassName=Sheet3 Member=Component C4 22uF, 25V
+Added Member To Class: ClassName=Sheet4 Member=Component C5 100nF, 25V
+Added Member To Class: ClassName=Sheet4 Member=Component C6 4.7uF, 25V
+Added Member To Class: ClassName=Sheet3 Member=Component J1 TSW-101-07-G-D
+Added Member To Class: ClassName=Sheet5 Member=Component J4 TSW-101-07-G-D
+Added Member To Class: ClassName=Sheet6 Member=Component J6 TSW-101-07-G-D
+Added Member To Class: ClassName=Sheet6 Member=Component J7 TSW-101-07-G-D
+Added Member To Class: ClassName=Sheet6 Member=Component J9 CON1
+Added Member To Class: ClassName=Sheet3 Member=Component R2 10kR
+Added Member To Class: ClassName=Sheet4 Member=Component R6 470R
+Added Member To Class: ClassName=Sheet6 Member=Component R16 470R
+Added Member To Class: ClassName=Sheet5 Member=Component U3 TLV7031QDBVRQ1
