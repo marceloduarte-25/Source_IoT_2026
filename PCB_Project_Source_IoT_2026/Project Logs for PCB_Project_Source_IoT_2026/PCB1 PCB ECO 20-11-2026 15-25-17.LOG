@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J2 Old Footprint=TSW-101-07-G-D_SAI New Footprint=CONN_1844210_PXC
+Change Component Footprint: Designator=J3 Old Footprint=TSW-101-07-G-D_SAI New Footprint=CONN_1844210_PXC
+Change Component Footprint: Designator=J6 Old Footprint=TSW-101-07-G-D_SAI New Footprint=CONN_1844210_PXC
+Change Component Footprint: Designator=J7 Old Footprint=TSW-101-07-G-D_SAI New Footprint=CONN_1844210_PXC
+Added Member To Class: ClassName=Sheet6 Member=Component T4

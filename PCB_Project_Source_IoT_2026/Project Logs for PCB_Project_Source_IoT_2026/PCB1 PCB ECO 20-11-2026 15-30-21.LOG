@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=J2 Old Footprint=TSW-101-07-G-D_SAI New Footprint=CONN_1844210_PXC
+Change Component Footprint: Designator=J3 Old Footprint=TSW-101-07-G-D_SAI New Footprint=CONN_1844210_PXC
+Change Component Footprint: Designator=J6 Old Footprint=TSW-101-07-G-D_SAI New Footprint=CONN_1844210_PXC
+Change Component Footprint: Designator=J7 Old Footprint=TSW-101-07-G-D_SAI New Footprint=CONN_1844210_PXC
+Add Class Member: Failed to add class member : Component C1 100nF, 25V
+Added Member To Class: ClassName=Sheet3 Member=Component J1 TSW-101-07-G-D
+Added Member To Class: ClassName=Sheet6 Member=Component J5 TSW-101-07-G-D
+Added Member To Class: ClassName=Sheet6 Member=Component J8 TSW-101-07-G-D
